@@ -1,14 +1,14 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "your_password",
+    "password": "mohamed/123123",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "gyuu.aternos.me",
+    "port": 58726,
+    "version": "1.21.4"
   },
 
   "position": {
